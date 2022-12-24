@@ -1,4 +1,8 @@
-# K-Nearest Neighbor Algorithm
+# K-nearest neighbor Algorithm
+
+## What is K-nearest neighbor algorithm?
+* [English](http://scholarpedia.org/article/K-nearest_neighbor)
+* [Korean](https://m.blog.naver.com/bestinall/221760380344)
 
 ## train.py
 ![Figure_1](https://user-images.githubusercontent.com/115938419/209378284-58486eba-fdb6-4127-9d97-3c85aa71eb18.png)
